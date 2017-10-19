@@ -1,6 +1,9 @@
 # PictureViewer
 
 <h1>加工した写真を載せる</h1>
+
+星のある場所に丸をつけています
+成功４つ　失敗４つを載せています
 <h2>成功例</h2>
 
 加工前1<BR>
@@ -28,3 +31,5 @@
   
 加工後4<BR>
  ![img_2653](https://user-images.githubusercontent.com/29031020/31761289-5bd232c8-b4f2-11e7-9956-8a67ad3514aa.png)
+
+<h2>失敗例</h2>
