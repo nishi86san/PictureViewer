@@ -4,7 +4,14 @@
 <h2>成功例</h2>
 
 加工前<BR>
-![screenshot from 2017-10-04 12 04 13](https://user-images.githubusercontent.com/29031020/31158375-427cb070-a8fc-11e7-9a10-2abc1a0607e7.png)
+ ![img_2639](https://user-images.githubusercontent.com/29031020/31760803-db225aaa-b4f0-11e7-8700-9f31d67b1bd4.JPG)
 
 加工後<BR>
-![screenshot from 2017-10-04 12 03 54](https://user-images.githubusercontent.com/29031020/31158392-637a82de-a8fc-11e7-8d99-eaaf2ff90ea0.png)
+ ![img_2639](https://user-images.githubusercontent.com/29031020/31760838-fb73b88a-b4f0-11e7-8e09-0712ec37df9d.png)
+
+
+加工前<BR>
+ ![img_2720](https://user-images.githubusercontent.com/29031020/31761042-9a5b28f2-b4f1-11e7-978f-198aff742309.JPG)
+  
+加工後<BR>
+ ![img_2720](https://user-images.githubusercontent.com/29031020/31761014-7d27f99a-b4f1-11e7-8348-f752540f29bc.png)
