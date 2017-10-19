@@ -2,10 +2,11 @@
 
 <h1>加工した写真を載せる</h1>
 
-星のある場所に丸をつけています<BR>
 成功４つ　失敗４つを載せています
-<h2>成功例</h2>
 
+<h2>成功例</h2>
+星のある場所に丸をつけています
+ 
 加工前1<BR>
  ![img_2639](https://user-images.githubusercontent.com/29031020/31760803-db225aaa-b4f0-11e7-8700-9f31d67b1bd4.JPG)
 
@@ -32,4 +33,29 @@
 加工後4<BR>
  ![img_2653](https://user-images.githubusercontent.com/29031020/31761289-5bd232c8-b4f2-11e7-9956-8a67ad3514aa.png)
 
+
 <h2>失敗例</h2>
+加工前1<BR>
+ ![img_2633](https://user-images.githubusercontent.com/29031020/31761867-69cfc65e-b4f4-11e7-91f6-eac550796dd2.png)
+加工後1<BR>
+ ![img_2633k](https://user-images.githubusercontent.com/29031020/31761898-7d13767a-b4f4-11e7-9305-d6957b195816.png)
+
+加工前2<BR>
+ ![img_2650](https://user-images.githubusercontent.com/29031020/31761973-c2ad889c-b4f4-11e7-82be-aee3d3368604.png)
+  
+加工後2<BR>
+ ![img_2650k](https://user-images.githubusercontent.com/29031020/31761991-d0d455a4-b4f4-11e7-974c-afc5592a8f4d.png)
+
+ 
+
+加工前3<BR>
+ 
+  
+加工後3<BR>
+ 
+ 
+ 加工前4<BR>
+ 
+  
+加工後4<BR>
+ 
