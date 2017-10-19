@@ -47,12 +47,11 @@
  ![img_2650k](https://user-images.githubusercontent.com/29031020/31761991-d0d455a4-b4f4-11e7-974c-afc5592a8f4d.png)
 
  
-
 加工前3<BR>
- 
+ ![img_2665](https://user-images.githubusercontent.com/29031020/31762172-55dc9ab8-b4f5-11e7-84e5-0b8adb6c32d6.png)
   
 加工後3<BR>
- 
+ ![img_2665k](https://user-images.githubusercontent.com/29031020/31762210-726a027e-b4f5-11e7-8a4d-57454fca4a2c.png)
  
  加工前4<BR>
  
